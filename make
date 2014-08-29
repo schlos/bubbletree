@@ -11,8 +11,8 @@
 #
 # Usage: 
 # just run ./make and be happy
-#
-#
+# 
+# 
 
 set -e
 OUTFILE=build/bubbletree.js
